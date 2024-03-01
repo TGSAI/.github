@@ -9,7 +9,7 @@ insights and drive progress.
 
 Important git repositories
 - [mdio-python][mdio] - Our open source cloud-native, scalable storage engine for various types of energy data solution.
-- [segy][segy] - The only Python SEG-Y input/output tool you'll ever need. Read/write to cloud and local disks!
+- [segy][segy] - The only Python SEG-Y input/output tool you'll ever need. Read/write any style SEG-Y to cloud and local disks!
 - [mdio-docker][mdio-docker] - MDIO Docker images and Dask worker compatible MDIO Docker images.
 - [mdio.github.io][mdio-dev] - MDIO website.
 
