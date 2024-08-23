@@ -8,12 +8,14 @@ traditional, and transformational, we have the energy data that uncover
 insights and drive progress.
 
 Important git repositories
-- [mdio-python][mdio] - Our open source cloud-native, scalable storage engine for various types of energy data solution.
+- [mdio-python][mdio-py] - Python API of our open source cloud-native, scalable storage engine for various types of energy data solution.
+- [mdio-cpp][mdio-cpp] - C++ API of our open source cloud-native, scalable storage engine for various types of energy data solution.
 - [segy][segy] - The only Python SEG-Y input/output tool you'll ever need. Read/write any style SEG-Y to cloud and local disks!
 - [mdio-docker][mdio-docker] - MDIO Docker images and Dask worker compatible MDIO Docker images.
 - [mdio.github.io][mdio-dev] - MDIO website.
 
-[mdio]: https://github.com/TGSAI/mdio-python
+[mdio-py]: https://github.com/TGSAI/mdio-python
+[mdio-cpp]: https://github.com/TGSAI/mdio-cpp
 [segy]: https://github.com/TGSAI/segy
 [mdio-docker]: https://github.com/TGSAI/mdio-docker
 [mdio-dev]: https://github.com/TGSAI/mdio.github.io
